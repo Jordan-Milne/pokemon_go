@@ -10,7 +10,7 @@ My first hackathon at [General Assembly](https://generalassemb.ly/education/data
 My bot will be judged on "creativity", "usability" and "interactivity" of my flask app. My bot must:
 
 - Use some type of machine learning algorithm
-- Flask front-end that accepts user input
+- Flask web framework that accepts user input
 - Augment the data with at least one other data source (think web scraping, google maps api, images?)
 
 ### 🍰 Brownie Points
